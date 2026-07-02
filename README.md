@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
 | [0239-sliding-window-maximum](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -34,5 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
