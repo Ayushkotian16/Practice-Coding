@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0424-longest-repeating-character-replacement) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
 | [0239-sliding-window-maximum](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0239-sliding-window-maximum) |
 ## Queue
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0412-fizz-buzz) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
