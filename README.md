@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
