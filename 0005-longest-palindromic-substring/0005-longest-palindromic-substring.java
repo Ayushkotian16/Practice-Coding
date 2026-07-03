@@ -20,18 +20,11 @@ class Solution {
         return ans;
     }
     public String palindrome(String s, int left,int right){
-        int maxx=0;
-        int length=0;
-        String str="";
+      
         while(left>=0&&right<s.length()&&s.charAt(left)==s.charAt(right)){
-            length=right-left+1;
-            if(length>maxx){
-            maxx=Math.max(maxx,length);
-            str=s.substring(left,right+1);
-            }
             left--;
             right++;
         }
-        return str;
+        return s.substring(left+1,right);
     }
 }
