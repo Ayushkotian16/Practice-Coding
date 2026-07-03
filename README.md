@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0412-fizz-buzz) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0647-palindromic-substrings) |
 ## Stack
