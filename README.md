@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0704-binary-search) |
 ## Queue
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0704-binary-search) |
 ## Sorting
 |  |
