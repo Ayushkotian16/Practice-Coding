@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -96,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
