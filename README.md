@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -106,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0021-merge-two-sorted-lists) |
 ## Matrix
 |  |
