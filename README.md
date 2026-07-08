@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
