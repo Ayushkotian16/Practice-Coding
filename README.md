@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0704-binary-search) |
 ## Queue
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
