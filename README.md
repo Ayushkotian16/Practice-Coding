@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0075-sort-colors) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0704-binary-search) |
