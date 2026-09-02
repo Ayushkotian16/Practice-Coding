@@ -153,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0238-product-of-array-except-self) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Ayushkotian16/Practice-Coding/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
