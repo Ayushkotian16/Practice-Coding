@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0647-palindromic-substrings) |
 ## Stack
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0509-fibonacci-number) |
 ## Simulation
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ayushkotian16/Practice-Coding/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
